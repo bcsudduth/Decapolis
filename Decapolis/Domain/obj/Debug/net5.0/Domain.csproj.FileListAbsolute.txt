@@ -1,0 +1,12 @@
+C:\Projects\Courses\Decapolis\Decapolis\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Projects\Courses\Decapolis\Decapolis\Domain\bin\Debug\net5.0\Domain.dll
+C:\Projects\Courses\Decapolis\Decapolis\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Projects\Courses\Decapolis\Decapolis\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.dll
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Projects\Courses\Decapolis\Decapolis\Domain\obj\Debug\net5.0\Domain.pdb

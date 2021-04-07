@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxvcDAxLbOxm2JBmDt2uLevb0RVuyfn4b5Jd3Vw7COW2KLMOYDGKN36OPhJ+IoLVh0CgVdErMcOltJf2yv3BbA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Courses\\Decapolis\\Decapolis\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsudd\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\automapper.collection\\7.0.1\\automapper.collection.7.0.1.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\fluentvalidation\\10.0.0\\fluentvalidation.10.0.0.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\bsudd\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
